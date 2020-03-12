@@ -112,5 +112,6 @@
         "template": "keepachangelog",
         "unreleased": true,
         "commitLimit": true
-    }
+    },
+  "sideEffects": ["*.css"]
 }
